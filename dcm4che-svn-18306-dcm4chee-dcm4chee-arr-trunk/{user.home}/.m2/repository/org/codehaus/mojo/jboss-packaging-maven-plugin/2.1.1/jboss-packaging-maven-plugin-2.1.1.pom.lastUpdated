@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 04 16:26:09 IST 2014
+http\://downloads.planetmirror.com/pub/maven2/.error=Could not transfer artifact org.codehaus.mojo\:jboss-packaging-maven-plugin\:pom\:2.1.1 from/to planetmirror.com (http\://downloads.planetmirror.com/pub/maven2)\: Connect to proxy.somewhere.com\:8080 [proxy.somewhere.com/75.101.145.87, proxy.somewhere.com/75.101.163.44, proxy.somewhere.com/174.129.212.2] failed\: Connection refused\: connect
+3be7fc9080fc5fd340bf5f5b3e1c0586882f1814@proxy.somewhere.com\:8080>@default-http\://downloads.planetmirror.com/pub/maven2/.lastUpdated=1404471369308
