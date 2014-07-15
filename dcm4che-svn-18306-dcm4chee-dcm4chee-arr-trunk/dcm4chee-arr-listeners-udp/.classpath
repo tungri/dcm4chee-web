@@ -4,5 +4,9 @@
 	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4chee/dcm4chee-arr-listeners-common/3.0.12/dcm4chee-arr-listeners-common-3.0.12.sar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-system/4.2.3.GA/jboss-system-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-jmx/4.2.3.GA/jboss-jmx-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/common/jboss-common/1.2.1.GA/jboss-common-1.2.1.GA.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

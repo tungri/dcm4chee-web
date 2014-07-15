@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry path="src/main/java" kind="src"/>
-	<classpathentry excluding="**" path="src/main/resources" kind="src"/>
-	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
-	<classpathentry path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER" kind="con"/>
-	<classpathentry path="target/classes" kind="output"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4che-audit/2.0.27/dcm4che-audit-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4che-core/2.0.27/dcm4che-core-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4chee/dcm4chee-arr-entities/3.0.12/dcm4chee-arr-entities-3.0.12-mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/jms/jms/1.1/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-ejb3x/4.2.3.GA/jboss-ejb3x-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-j2ee/4.2.3.GA/jboss-j2ee-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-annotations-ejb3/4.2.3.GA/jboss-annotations-ejb3-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/hibernate/hibernate/3.2.4.sp1/hibernate-3.2.4.sp1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/hibernate/hibernate-annotations/3.2.1.ga/hibernate-annotations-3.2.1.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/jboss/seam/jboss-seam/2.1.1.GA/jboss-seam-2.1.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/faces/jsf-api/1.2_09-BETA1/jsf-api-1.2_09-BETA1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>

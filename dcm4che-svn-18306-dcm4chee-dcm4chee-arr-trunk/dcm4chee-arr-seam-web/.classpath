@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry path="src/main/java" kind="src"/>
-	<classpathentry excluding="**" path="src/main/resources" kind="src"/>
-	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
-	<classpathentry path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER" kind="con"/>
-	<classpathentry path="target/classes" kind="output"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4chee/dcm4chee-arr-entities/3.0.12/dcm4chee-arr-entities-3.0.12-mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4chee/dcm4chee-arr-seam-ejb/3.0.12/dcm4chee-arr-seam-ejb-3.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/hibernate/hibernate-annotations/3.2.1.ga/hibernate-annotations-3.2.1.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>

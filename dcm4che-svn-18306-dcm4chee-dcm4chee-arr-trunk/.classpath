@@ -16,5 +16,34 @@
 	<classpathentry excluding="**" kind="src" output="dcm4chee-arr-seam-web/target/classes" path="dcm4chee-arr-seam-web/src/main/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
 	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/hibernate/hibernate-annotations/3.2.1.ga/hibernate-annotations-3.2.1.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/jms/jms/1.1/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-system/4.2.3.GA/jboss-system-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/getopt.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/jboss-common.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/jboss-jmx.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/jboss-system.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/jboss-xml-binding.jar"/>
+	<classpathentry kind="lib" path="C:/dcm4chee/jboss-4.2.3.GA/lib/log4j-boot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/ejb/ejb-api/3.0/ejb-api-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4che-audit/2.0.27/dcm4che-audit-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/jboss/seam/jboss-seam/2.1.1.GA/jboss-seam-2.1.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4che-core/2.0.27/dcm4che-core-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/hibernate/hibernate/3.2.1.ga/hibernate-3.2.1.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4chee/dcm4chee-arr-entities/3.0.12/dcm4chee-arr-entities-3.0.12-mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-ejb3x/4.2.3.GA/jboss-ejb3x-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-j2ee/4.2.3.GA/jboss-j2ee-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-annotations-ejb3/4.2.3.GA/jboss-annotations-ejb3-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/hibernate/hibernate/3.2.4.sp1/hibernate-3.2.4.sp1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/faces/jsf-api/1.2_09-BETA1/jsf-api-1.2_09-BETA1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

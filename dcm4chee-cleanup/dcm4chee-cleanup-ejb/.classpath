@@ -3,5 +3,12 @@
 	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
 	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4chee/dcm4chee-arc-entities/3.0.4-SNAPSHOT/dcm4chee-arc-entities-3.0.4-SNAPSHOT-mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-system/4.0.2/jboss-system-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-ejb3x/4.2.3.GA/jboss-ejb3x-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-annotations-ejb3/4.2.3.GA/jboss-annotations-ejb3-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-j2ee/4.0.2/jboss-j2ee-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/hibernate/ejb3-persistence/1.0.1.GA/ejb3-persistence-1.0.1.GA.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

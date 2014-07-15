@@ -4,5 +4,11 @@
 	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/dcm4che-audit"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4chee/dcm4chee-arc-entities/3.0.4-SNAPSHOT/dcm4chee-arc-entities-3.0.4-SNAPSHOT-mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/dcm4che/dcm4chee/dcm4chee-cleanup-ejb/3.0.4-SNAPSHOT/dcm4chee-cleanup-ejb-3.0.4-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/org/slf4j/slf4j-api/1.5.0/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-system/4.2.3.GA/jboss-system-4.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya/.m2/repository/jboss/jboss-jmx/4.2.3.GA/jboss-jmx-4.2.3.GA.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
